@@ -1,0 +1,14 @@
+﻿  Source1.cpp
+C:\Users\FPTSHOP\source\repos\newbie\newbie\Source1.cpp(42,25): warning C4305: '=': truncation from 'int' to 'float'
+C:\Users\FPTSHOP\source\repos\newbie\newbie\Source1.cpp(84,38): warning C4129: '%': unrecognized character escape sequence
+C:\Users\FPTSHOP\source\repos\newbie\newbie\Source1.cpp(118,20): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+C:\Users\FPTSHOP\source\repos\newbie\newbie\Source1.cpp(118,20): warning C4244:         with
+C:\Users\FPTSHOP\source\repos\newbie\newbie\Source1.cpp(118,20): warning C4244:         [
+C:\Users\FPTSHOP\source\repos\newbie\newbie\Source1.cpp(118,20): warning C4244:             _Tp=double
+C:\Users\FPTSHOP\source\repos\newbie\newbie\Source1.cpp(118,20): warning C4244:         ]
+C:\Users\FPTSHOP\source\repos\newbie\newbie\Source1.cpp(261,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\FPTSHOP\source\repos\newbie\newbie\Source1.cpp(262,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\FPTSHOP\source\repos\newbie\newbie\Source1.cpp(264,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\FPTSHOP\source\repos\newbie\newbie\Source1.cpp(265,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\FPTSHOP\source\repos\newbie\newbie\Source1.cpp(288,39): warning C4129: '%': unrecognized character escape sequence
+  newbie.vcxproj -> C:\Users\FPTSHOP\source\repos\newbie\x64\Debug\newbie.exe
